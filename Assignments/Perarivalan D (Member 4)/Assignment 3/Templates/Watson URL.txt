@@ -1,0 +1,1 @@
+https://jp-tok.assistant.watson.cloud.ibm.com/crn%3Av1%3Abluemix%3Apublic%3Aconversation%3Ajp-tok%3Aa%2Ffa40c68324104e8db9e82f86680cd507%3Ae61105c6-2ce4-4d65-93aa-6f49acd30c0f%3A%3A/assistants/46cc5f8e-4c56-442f-8dfa-c82171a686da/preview
