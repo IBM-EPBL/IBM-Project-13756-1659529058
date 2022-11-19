@@ -6,10 +6,11 @@
 # Demo Link - https://youtu.be/hO4TyRNHrig
  
 # TEAM MEMBERS:
-             -ABINAYA.R
-             -HARINI.P
-             -KARTHIGA.E
-             -SNEHA.P
+             -Finley Saxon Lobo H(Team Leader)
+             -Gaurav Sakthi B(Team member 1)
+             -Gurubaran K(Team member 2)
+             -Karthick S(Team member 3)
+             -Perarivalan D(Team member 4)
              
 
 # ABSTRACT:
